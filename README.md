@@ -32,3 +32,6 @@
 
 9. Acknowledgement
     I acknowledge my tutor Mr.Kenneth Kato for the wonderful job he has done educating me on this project.
+    I would also love to take this opportunity to invite anyone to help develop this project.
+
+Thank you guys.
