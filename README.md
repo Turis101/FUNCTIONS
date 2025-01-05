@@ -27,7 +27,7 @@
     -This project is registered under the MIT licence
 
 8. Authors or Maintainers
-    -Author: <Jesse Turinawe>
+    -Author: Jesse Turinawe
     -Maintainers: Same as above
 
 9. Acknowledgement
