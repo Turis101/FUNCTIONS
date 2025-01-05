@@ -130,6 +130,7 @@ void YearstoDoubleInvestment (){
 
 
 }
+
 void TotalExpensesofCompany (){
     int items;
     printf("Enter the number of items\n");
@@ -140,6 +141,7 @@ void TotalExpensesofCompany (){
     int TotalExpenses = Rprices*items;
     printf("Total Expenses is %d\n",TotalExpenses);
 }
+
 void TaxPercentage(){
     double Salary;
     printf("Enter the Salary\n");
@@ -169,6 +171,7 @@ void TotalOverDueFee(){
     int TotalOverDueFee = DailyoverDueFee*Daysoverdue;
     printf("The total overdue fee is %d\n",TotalOverDueFee);
 }
+
 void MaximumDiscountOffered(){
     double originalprice;
     printf("Enter the original price\n");
@@ -207,8 +210,6 @@ int main(){
     TaxPercentage();
     TotalOverDueFee();
     MaximumDiscountOffered();
-
-
 
     return 0;
 }
