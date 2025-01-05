@@ -181,15 +181,25 @@ void MaximumDiscountOffered(){
 }
 
 int main(){
+    
     TotalSalePrice ();
+
     SalaryAfterTax(5000000,0.15);
+    
     GrossProfit(15000000,9000000);
+    
     ROI(10000000,2000000);
+    
     MonthlyPayment(5,0.05);
+    
     SimpleInterest(2000000,3,0.06);
+    
     Break_evenpoint(10000000,100000,50000);
+    
     Flatinterest(1000000,2,0.04);
+    
     ProfitMargin(9000000,30000000);
+    
     AnnualDepreciation(10000000,2000000,5);
     int DP;
     printf("Enter the Price\n");
@@ -197,7 +207,9 @@ int main(){
     double Dp;
     printf("Enter the Discounted Percentage\n");
     scanf("%lf",&Dp);
+    
     DiscountedPrice(DP,Dp);
+
     Taxamount();
     EmployeeSalaryAfterBonus();
     ProfitorLoss();
