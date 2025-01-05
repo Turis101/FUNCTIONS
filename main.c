@@ -207,7 +207,7 @@ int main(){
     double Dp;
     printf("Enter the Discounted Percentage\n");
     scanf("%lf",&Dp);
-    
+
     DiscountedPrice(DP,Dp);
 
     Taxamount();
@@ -220,7 +220,7 @@ int main(){
     TotalOverDueFee();
     MaximumDiscountOffered();
 
-
+    // I do not think I will be able to beat the deadline though 
 
     return 0;
 }
