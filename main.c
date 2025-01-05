@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 double DiscountPercentage = 0.1;
 double OriginalPrice = 200000;
